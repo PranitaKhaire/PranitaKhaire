@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @PranitaKhaire
 - 👀 I’m interested in learning new tech always and contributing.
+- 🧑‍💻 Worked as Software Engineer for 3.5 plus years.
 - 🌱 I’m currently pursuing PG in Data Science and Analytics.
 - 💞️ I’m looking to collaborate on various health tech domain projects and curious to work on data analytics.
 - 📫 How to reach me ...You can find me almost on all social media platforms but I am super active on Twitter and LinkedIn. 
